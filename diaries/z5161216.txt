@@ -1,0 +1,2 @@
+Week 1 Diary
+Organising project scope and setting up jira/confluence and github.
