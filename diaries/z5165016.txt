@@ -1,0 +1,4 @@
+Week 1:
+
+Formed groups. Decided on project 3. Had some discussion about tech stack and architecture to use.
+Joined/Created github, jira and confluence groups. Made ER diagram of database structure.
